@@ -8,6 +8,6 @@
 <ul>
   <li>I created containers in the index.html page and commenced to go through each element and container one at a time</li>
   <li>With the help of Google's inspect element and the Odin Projects flex exercise templates I started my own flex experiment</li>
-  <li>Thus my Douglas Adams page is now finished.<li>
+  <li>Thus my Douglas Adams page is now finished.</li>
 </ul>
 <p>Flex is still a confusing aspect of CSS but I will be creating other little projects of my own to help me gain more experience with it and also other aspects of CSS that that I've come across.</p>
